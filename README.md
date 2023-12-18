@@ -13,9 +13,17 @@ Este projeto é um aplicativo de notícias criado com o objetivo educacional de 
 </p>
 
 <br />
-<h1 id='technologies'>🖱️ Funcionalidades</h2>
+<h1 id='technologies'>Funcionalidades</h2>
+
+- Ler notícias.
+- Salvar notícias localmente usando o Hive para armazenamento.
+- Navegar e visualizar notícias salvas offline.
 
 
+<h1>Tecnologias Utilizadas</h2>
+
+- Flutter
+- Dart
 
 
 
